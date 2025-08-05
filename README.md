@@ -44,7 +44,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 
 3. Navigate into any project folder and run the Python file:
    ```bash
-   python number_1_GuesstheNumber.py
+   python number_1_GuessTheNumber.py
 
 ## ✨ Why This Repo?
 
