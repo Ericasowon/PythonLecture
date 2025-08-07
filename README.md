@@ -25,6 +25,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 🧮 Calculator           | A simple calculator for basic arithmetic operations.          | `def`, `input()`, `if-elif`, exception handling|
 | ✅ To-Do List           | Add, delete, and view your tasks — your personal task manager.| `list`, `while`, `functions`, menu selection  |
 | 📆 D Day Calculator     | Calculate how many days are left                              | `input`. `while`, `if-elif`, `datetime`       |
+| ⌨️ Typing Speed Test    | Measure how long the user takes to type the sentence          | `input`, `random`, `if-else`, `for`, `time`   |
 | 🔄 Multiplication Table | Enter a number to see its multiplication table (구구단).      | `for`, `range`, `input()`                     |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
