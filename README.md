@@ -27,6 +27,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 📆 D Day Calculator     | Calculate how many days are left                              | `input`. `while`, `if-elif`, `datetime`       |
 | ⌨️ Typing Speed Test    | Measure how long the user takes to type the sentence          | `input`, `random`, `if-else`, `for`, `time`   |
 | 🎰 Lotto Number Generator | Randomly select 6 unique numbers between 1 and 45           | `random`, `list`, `sort`, `input`, `int`, `while` |
+| 📚 Word Quiz            | Show the meaning and let the user guess the word              | `dict`, `random`, `while`, `for`              |
 | 🔄 Multiplication Table | Enter a number to see its multiplication table (구구단).      | `for`, `range`, `input()`                     |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
