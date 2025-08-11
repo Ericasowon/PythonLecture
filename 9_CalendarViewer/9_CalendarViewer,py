@@ -1,0 +1,14 @@
+# goal
+# Prompt the user to enter a year and month, then display that month's calendar
+
+# used concept
+# calender, print, input
+
+import calendar
+
+print("📅 Annual Calendar Printer")
+
+year = int(input("Enter a year (e.g., 2025): "))
+
+# Print the full year's calendar
+print(calendar.calendar(year))
