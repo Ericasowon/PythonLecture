@@ -31,6 +31,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 🎲 Dice Simulator       | Roll dice when Enter is pressed and display a number between 1 and 6 | `random`, `while`, `for`               |
 | 📅 Calendar Viewer      | Prompt the user to enter a year and month, then display that month's calendar | `calendar`, `input`           |
 | 🔄 Multiplication Table Quiz | Enter a number to see its multiplication table (구구단). | `for`, `range`, `input()`, `random`           |
+| 💰 Change Calculator    | calculate the change.                                         | `int`, `input`, `if-else`, `for`              |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
