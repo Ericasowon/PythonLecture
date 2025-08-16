@@ -33,6 +33,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 🔄 Multiplication Table Quiz | Enter a number to see its multiplication table (구구단). | `for`, `range`, `input()`, `random`           |
 | 💰 Change Calculator    | calculate the change.                                         | `int`, `input`, `if-else`, `for`              |
 | 🔐 Password Generator   | Generate a password by randomly combining letters             | `random`, `string`, `if-else`                 |
+| 📊 Grade Calculator     | calculate the average, highest, and lowest scores             | `input`. `int`, `for`                         |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
