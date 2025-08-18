@@ -35,6 +35,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 🔐 Password Generator   | Generate a password by randomly combining letters             | `random`, `string`, `if-else`                 |
 | 📊 Grade Calculator     | calculate the average, highest, and lowest scores             | `input`. `int`, `for`                         |
 | 🛒 Shopping Cart Simulator | Allow the user to enter desired products and quantities    | `dictionary`, `if-else`, `for`, `while`       |
+| 📊 Simple Statistics Analyzer | Calculate mean, median, mode, variance, and standard deviation | `statistics`, `int`, `input`, `split`  |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
