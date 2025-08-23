@@ -38,6 +38,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 📊 Simple Statistics Analyzer | Calculate mean, median, mode, variance, and standard deviation | `statistics`, `int`, `input`, `split`  |
 | 📖 English Wordbook Program | Input English words and their meanings, then store them   | `dictionary`, `while`, `if-elif`              |
 | 📕 Addressbook          | Display the entire address book                               | `json`, `try`, `except`, `while`, `if-elif`   |
+| 💰 Mini Household Account Book | Add income/expense records                             | `json`, `try`, `while`, `if-elif`             |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
