@@ -40,6 +40,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 📕 Addressbook          | Display the entire address book                               | `json`, `try`, `except`, `while`, `if-elif`   |
 | 💰 Mini Household Account Book | Add income/expense records                             | `json`, `try`, `while`, `if-elif`             |
 | 🌀 Maze Escape Game     | Represent the maze using a 2D list                            | `while`, `def`, `list`, `if-elif`             |
+| ❓ Simple Quiz Game     | Store questions and answers in a dictionary                   | `for`, `if-else`                              |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
