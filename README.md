@@ -42,6 +42,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 🌀 Maze Escape Game     | Represent the maze using a 2D list                            | `while`, `def`, `list`, `if-elif`             |
 | ❓ Simple Quiz Game     | Store questions and answers in a dictionary                   | `for`, `if-else`                              |
 | ⏰ Digital Clock Program | Get the current time (time.strftime)                         | `time`, `os`, `try`, `while`                  |
+| 📰 Simple Web Crawler   | Fetch a webpage using requests                                | `request`, `beautifulSoup`, `for`             |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
