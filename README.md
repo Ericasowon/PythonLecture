@@ -45,6 +45,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 📰 Simple Web Crawler   | Fetch a webpage using requests                                | `request`, `beautifulSoup`, `for`             |
 | 📝 Memo Pad             | Load and display saved memos                                  | `while`, `if-elif`, `open`, `read`            |
 | 🧮 GUI Mini Calculator  | Create number buttons & operator buttons                      | `tkinter`, `def`, `if-elif`, `list`           |
+| 🎨 GUI Mini Paint Program | Draw lines using mouse click & drag                         | `tkinter`, `def`                              |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
