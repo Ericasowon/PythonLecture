@@ -47,6 +47,7 @@ All projects are created and tested in **VS Code**, and they’re beginner-frien
 | 🧮 GUI Mini Calculator  | Create number buttons & operator buttons                      | `tkinter`, `def`, `if-elif`, `list`           |
 | 🎨 GUI Mini Paint Program | Draw lines using mouse click & drag                         | `tkinter`, `def`                              |
 | 🎵 Simple Music Player  | Load music file (Play / Stop / Pause functionality)           | `pygame`, `while`, `try`, `if-elif`           |
+| ⚖️ BMI Calculator       | The program asks the user to input their height (cm) and weight (kg). | `if-elif`, `print`                    |
 | 🔢 Odd or Even Checker  | Determine whether a number is odd or even.                    | `if-else`, `input()`, `int()`                 |
 
 > More projects will be added continuously. Feel free to ⭐ star this repo to stay updated!
